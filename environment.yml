@@ -50,6 +50,7 @@ dependencies:
   - pydantic-core=2.33.2
   - pysocks=1.7.1
   - python=3.10.18
+  - pip
   - python-dateutil=2.9.0post0
   - python-tzdata=2025.2
   - pytz=2025.2
