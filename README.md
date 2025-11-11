@@ -6,7 +6,7 @@ AI agent-driven fully automated Alpha mining.
 
 ## ⚠️ Attention
 
-Please note that this tool only performs backtest simulations on the platform (Simulate) and does not execute any submission actions (Submit). ** Excessive simulations without valid submissions may result in your account being locked. ** Please make sure to limit the number of backtests when using this tool.
+Please note that this tool only performs backtest simulations on the platform (Simulate) and does not execute any submission actions (Submit). **Excessive simulations without valid submissions may result in your account being locked.** Please make sure to limit the number of backtests when using this tool.
 
 ## Work Pipeline
 
